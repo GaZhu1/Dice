@@ -34,7 +34,6 @@ class Die //models one single dice cube
 		bruhX = x;
 		bruhY = y;
 		roll();
-		System.out.println(bruhX);
 		//variable initializations here
 	}
 	void roll()
